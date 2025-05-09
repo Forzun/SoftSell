@@ -48,7 +48,7 @@ function Blocks({comment , name , branch} : {
         <div>
           
           <p className="text-black/90 dark:text-white/90 italic mb-4 ">
-            "{comment}"
+          &quot;{comment}&quot;
           </p>
           
           <h3 className="font-semibold text-lg dark:text-gray-700 text-gray-400">{name}</h3>
