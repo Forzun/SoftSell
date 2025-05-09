@@ -2,6 +2,7 @@
 import { useTheme } from "next-themes";
 import Button from "./Button";
 import { useState } from "react";
+import Link from "next/link";
 
 export default function Navbar(){ 
 
@@ -15,9 +16,9 @@ export default function Navbar(){
               </svg>
               <div className="absolute h-10 w-10 bg-indigo-500 opacity-20 rounded-xl blur-sm"></div>
             </div>
-            <a href="/">
+            <Link href="/">
               <h1 className="text-3xl font-bold">SoftSell</h1>
-            </a>
+            </Link>
           </div>
           <div className="grid grid-cols-2 text-sm invisible md:visible gap-6 items-center">
               <a href="#ChooseUs"><h1 className="col-span-1 hover:text-neutral-400 transition duration-200">Choose Us</h1></a>

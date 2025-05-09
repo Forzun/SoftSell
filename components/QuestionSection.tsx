@@ -17,7 +17,7 @@ export default function QuestionSection(){
         <div className="flex gap-1 items-center group justify-center ">
             <div className="flex flex-col max-w-2xl text-sm mx-auto ">
               <div className="flex items-center justify-center flex-col">
-              <StyleButton title="Simple Steps to Sell" svg={"fill-pink-400"} svgTextColor="violet" svgFullColor="fill-violet-400" bgColor={"bg-violet-700/20"} bgBorderColor={"border-violet-500/20"} />
+              <StyleButton title="Simple Steps to Sell" svgTextColor="violet" svgFullColor="fill-violet-400" bgColor={"bg-violet-700/20"} bgBorderColor={"border-violet-500/20"} />
                 <h1 className="font-light text-2xl md:text-5xl">Q&A</h1>
                 <div className="flex items-center justify-center">
             </div>

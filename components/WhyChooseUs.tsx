@@ -7,7 +7,7 @@ export default function WhyChooseUs() {
          <div className="flex gap-1 items-center group justify-center ">
             <div className="flex flex-col max-w-2xl text-sm mx-auto ">
               <div className="flex items-center flex-col justify-center">
-                <StyleButton title="Trusted by Sellers" svg={"fill-pink-400"} svgTextColor="sky" svgFullColor="fill-sky-400" bgColor={"bg-sky-700/20"} bgBorderColor={"border-sky-500/20"} />
+                <StyleButton title="Trusted by Sellers" svgTextColor="sky" svgFullColor="fill-sky-400" bgColor={"bg-sky-700/20"} bgBorderColor={"border-sky-500/20"} />
                 <h1 className="font-light text-2xl md:text-5xl">Why Choose SoftSell</h1>
                 <div className="flex items-center justify-center">
             </div>

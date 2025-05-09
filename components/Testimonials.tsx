@@ -3,9 +3,15 @@ import StyleButton from "./StyleButton";
 export default function Testimonials() {
     return (
       <section id="Testimonials" className="md:py-16 py-0 ">
-        <div className="mex-w-7xl mx-auto flex flex-col gap-4 md:gap-10 items-center justify-center">
+        <div className=" mx-auto flex flex-col gap-4 md:gap-10 items-center justify-center">
                 <div>
-                    <StyleButton title="What People Are Saying" svg={"fill-pink-400"} svgTextColor="pink" svgFullColor="fill-pink-400" bgColor={"bg-pink-700/20"} bgBorderColor={"border-pink-500/20"} />
+                                  <StyleButton 
+                    title="What People Are Saying" 
+                    svgTextColor="pink" 
+                    svgFullColor="fillPink" 
+                    bgColor="bg-pink-700/20" 
+                    bgBorderColor="border-pink-500/20" 
+                  />
                     <MainHeading />
                 </div>
             <div className="w-full grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-3 ">

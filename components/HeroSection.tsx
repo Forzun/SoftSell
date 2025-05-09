@@ -24,7 +24,7 @@ export default function HeroSection() {
           </div>
         </div>
         <div className="max-w-2xl mx-auto flex text-sm md:text-md font-light justify-cente text-black/90 dark:text-white/90 md:dark:text-wite/20 text-center pt-7">
-         <p>Whether you're a business with extra seats or an individual with unused tools, SoftSell lets you securely resell your software licenses in minutes — no hidden fees, just fast, verified payouts.</p>
+         <p>Whether  you&rsquo;re business with extra seats or an individual with unused tools, SoftSell lets you securely resell your software licenses in minutes — no hidden fees, just fast, verified payouts.</p>
         </div>
         <div className="w-full pb-6 flex md:flex-row flex-col justify-center pt-10 items-center gap-2">
             <div className="flex py-1 px-3 w-fit border dark:border-white/10 border-black/40 dark:bg-white/3 bg-black/2 items-center gap-2 rounded-full text-sm ">
