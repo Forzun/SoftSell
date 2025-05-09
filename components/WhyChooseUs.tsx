@@ -2,7 +2,7 @@ import StyleButton from "./StyleButton";
 
 export default function WhyChooseUs() {
   return (
-    <section id="ChooseUs" className="relative py-16 text-center flex flex-col gap-10 justify-center px-2 ">
+    <section id="ChooseUs" className="relative py-16 text-center flex flex-col gap-10 justify-center px-2 mt-8 ">
       <div className="absolute top-40 left-1/2 w-96 h-96 bg-pink-500/15 rounded-full blur-3xl"></div>
          <div className="flex gap-1 items-center group justify-center ">
             <div className="flex flex-col max-w-2xl text-sm mx-auto ">

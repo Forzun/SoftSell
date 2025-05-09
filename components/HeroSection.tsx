@@ -2,7 +2,7 @@ import ButtonSecond from "./ButtonSecond"
 
 export default function HeroSection() {
   return <div className="pt-40">
-    <section className="relative max-w-5xl mx-auto max-h-screen  ">
+    <section className="relative max-w-5xl mx-auto max-h-screen md:pb-0 pb-9 ">
       <div className="">
       <div className="absolute -top-9 left-0 w-96 h-96 bg-violet-500/20 rounded-full blur-3xl"></div>
       <div className="absolute right-0 -bottom-9 w-96 h-96 bg-pink-500/20 rounded-full blur-3xl"></div>

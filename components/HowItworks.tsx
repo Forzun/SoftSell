@@ -3,7 +3,7 @@ import StyleButton from "./StyleButton";
 
 export default function HowItWorks() {
   return (
-    <section className="relative py-16 mt-16 md:mt-0 text-center h-screen flex flex-col justify-center px-2 ">
+    <section className="relative py-16 mt-16 md:mt-0 text-center h-screen flex flex-col justify-center">
       <div>
       <div className="absolute right-6 bottom-9 w-96 h-96 bg-violet-500/10 rounded-full blur-3xl transition "></div>
       </div>
